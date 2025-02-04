@@ -1,4 +1,0 @@
-This is a sample file
-This is a sample file1
-This is a sample file2
-This is a sample file3
